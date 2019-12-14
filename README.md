@@ -28,6 +28,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 - [ ]  Explain benefit(s) using `client-side routing`?
 
 > Answer:  -Page loads faster
+-The whole page doesn't need to refresh 
 
 ## Project Set Up
 
